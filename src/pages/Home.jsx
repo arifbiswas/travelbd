@@ -5,6 +5,7 @@ import Navbar from "../components/Navbar/Navbar";
 import PriceGuaranteeSection from "../components/PriceGuaranteeSection/PriceGuaranteeSection";
 import Footer from "../components/Footer/Footer";
 import FooterEnd from "../components/Footer/FooterEnd";
+import OurPartners from "../components/Our Partners/OurPartners";
 const Home = () => {
   return (
     <>
@@ -19,6 +20,9 @@ const Home = () => {
       </section>
       <section className="">
         <GetToKnowUsSection />
+      </section>
+      <section>
+        <OurPartners />
       </section>
       <section>
         <Footer />
