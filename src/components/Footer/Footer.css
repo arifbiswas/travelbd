@@ -1,0 +1,23 @@
+.footer_divider {
+  margin: 5px 0px 0px 0px;
+  padding: 10px 0px 0px 0px;
+  border-style: solid;
+  border-width: 1px 0px 0px 0px;
+  border-color: #ffffff33;
+}
+
+.footer_background {
+  background-image: url("https://i.postimg.cc/L6p9MVdH/Whats-App-Image-2023-05-09-at-16-03-44.jpg");
+  background-position: center left;
+  background-repeat: no-repeat;
+  background-size: cover;
+  background-color: #000000c2;
+  opacity: 1;
+  mix-blend-mode: luminosity;
+}
+
+.background-overlay {
+  background-color: #000000c2;
+  opacity: 0.95;
+  mix-blend-mode: luminosity;
+}
