@@ -1,4 +1,5 @@
 import "./Footer.css";
+import { IconName } from "react-icons/fa";
 
 const Footer = () => {
   return (
@@ -11,9 +12,13 @@ const Footer = () => {
               alt="logo"
             />
           </div>
-          <div className="footer_one-content"></div>
-          <div className="footer_divider">
+          <div className="footer_one-content">
             <div></div>
+          </div>
+          <div className="footer_divider">
+            <div>
+              <FaPhoneAlt />
+            </div>
           </div>
         </div>
         <div>pRT TWO</div>
