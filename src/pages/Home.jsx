@@ -8,6 +8,7 @@ import FooterEnd from "../components/Footer/FooterEnd";
 import OurPartners from "../components/Our Partners/OurPartners";
 import AppPromotion from "../components/App Promotion/AppPromotion";
 import Articles from "../components/Articles/Articles";
+import FindBestTour from "../components/FindBestTour/FindBestTour";
 const Home = () => {
   return (
     <>
@@ -22,6 +23,9 @@ const Home = () => {
       </section>
       <section className="">
         <GetToKnowUsSection />
+      </section>
+      <section>
+        <FindBestTour />
       </section>
       <section>
         <Articles />
