@@ -23,7 +23,7 @@ const BannerSection = () => {
         <h1 style={{
             "fontFamily": 'Dancing Script, cursive'
         }} className="font-serif text-blue-700 text-8xl -rotate-3">Jol Utshob Tours</h1>
-        <h2 className=" text-white font-bold text-6xl -mt-5">Your Journey Begins Here</h2>
+        <h2 className=" text-green-500 font-bold text-6xl -mt-5">Your Journey Begins Here</h2>
             <div className='rounded-lg bg-white pl-2  flex mt-12'>
             <div className="flex">
                     <div className='flex items-center py-4 px-5 gap-3 border-r border-r-gray-200'>
